@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/yudbox/osLesson1/static/css/main.aa3664a4.chunk.css",
-    "main.js": "/yudbox/osLesson1/static/js/main.5156c683.chunk.js",
-    "main.js.map": "/yudbox/osLesson1/static/js/main.5156c683.chunk.js.map",
-    "runtime-main.js": "/yudbox/osLesson1/static/js/runtime-main.f79c74a1.js",
-    "runtime-main.js.map": "/yudbox/osLesson1/static/js/runtime-main.f79c74a1.js.map",
-    "static/js/2.33807f87.chunk.js": "/yudbox/osLesson1/static/js/2.33807f87.chunk.js",
-    "static/js/2.33807f87.chunk.js.map": "/yudbox/osLesson1/static/js/2.33807f87.chunk.js.map",
-    "index.html": "/yudbox/osLesson1/index.html",
-    "precache-manifest.e80387f3a20c2780047264a6d0286fcc.js": "/yudbox/osLesson1/precache-manifest.e80387f3a20c2780047264a6d0286fcc.js",
-    "service-worker.js": "/yudbox/osLesson1/service-worker.js",
-    "static/css/main.aa3664a4.chunk.css.map": "/yudbox/osLesson1/static/css/main.aa3664a4.chunk.css.map",
-    "static/js/2.33807f87.chunk.js.LICENSE.txt": "/yudbox/osLesson1/static/js/2.33807f87.chunk.js.LICENSE.txt"
+    "main.css": "./main.aa3664a4.chunk.css",
+    "main.js": "./main.f893719a.chunk.js",
+    "main.js.map": "./main.f893719a.chunk.js.map",
+    "runtime-main.js": "./runtime-main.e6ae2e8b.js",
+    "runtime-main.js.map": "./runtime-main.e6ae2e8b.js.map",
+    "2.b6f20b62.chunk.js": "./2.b6f20b62.chunk.js",
+    "2.b6f20b62.chunk.js.map": "./2.b6f20b62.chunk.js.map",
+    "2.b6f20b62.chunk.js.LICENSE.txt": "./2.b6f20b62.chunk.js.LICENSE.txt",
+    "index.html": "./index.html",
+    "main.aa3664a4.chunk.css.map": "./main.aa3664a4.chunk.css.map",
+    "precache-manifest.fcfa683d748ce302de7ce66fae6777eb.js": "./precache-manifest.fcfa683d748ce302de7ce66fae6777eb.js",
+    "service-worker.js": "./service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.f79c74a1.js",
-    "static/js/2.33807f87.chunk.js",
-    "static/css/main.aa3664a4.chunk.css",
-    "static/js/main.5156c683.chunk.js"
+    "runtime-main.e6ae2e8b.js",
+    "2.b6f20b62.chunk.js",
+    "main.aa3664a4.chunk.css",
+    "main.f893719a.chunk.js"
   ]
 }
