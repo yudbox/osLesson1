@@ -1,0 +1,23 @@
+.side_container {
+    grid-area: side;
+    background-color: rgb(32, 146, 17);
+}
+.sideNav {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.sideNav a {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.5s;
+    margin-top: 10px;
+}
+.sideNav a:hover {
+    text-decoration: underline;
+    opacity: 0.7;
+}
+
+.sideNav a.active {
+    color: rgb(233, 229, 0);
+}

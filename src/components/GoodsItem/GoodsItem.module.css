@@ -1,0 +1,38 @@
+.goods_container {
+    display: flex;
+}
+.goods_item {
+    width: 50%;
+}
+.goodsPhoto {
+    height: 350px;
+}
+.description {
+    font-size: 16px;
+    color: #333;
+}
+.goods_name {
+    font-size: 22px;
+    font-weight: 700;
+}
+.goods_price {
+    font-size: 18px;
+}
+.goods_price span {
+    font-size: 24px;
+    color: red;
+    font-weight: 700;
+}
+.goods_quantity {
+    font-size: 18px;
+}
+.goods_quantity span{
+    font-size: 24px;
+}
+.goods_buy button {
+    width: 300px;
+    height: 30px;
+    color: #fff; 
+    background-color: rgb(23, 146, 228);
+
+}

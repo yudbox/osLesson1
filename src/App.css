@@ -1,0 +1,16 @@
+.body-container {
+  position: relative;
+  display: grid;
+  grid-template-columns: 16% 84%;
+  height: 100vh;
+
+
+  grid-template-areas: 
+      "side mc"
+
+}
+.main-content {
+  grid-area: mc;
+  background-color: #fff;
+}
+

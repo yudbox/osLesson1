@@ -1,0 +1,25 @@
+.catologContainer {
+    display: flex;
+    justify-content: flex-start;
+    width: 32%;
+}
+
+.goodsPhoto {
+    height: 250px;
+
+}
+.goodsPrice span {
+    color: red;
+}
+.goodsName {
+    height: 32px;
+    margin-bottom: 8px;
+    overflow: hidden;
+    font-size: 14px;
+    line-height: 16px;
+    color: #221f1f;
+}
+.goodsDescr {
+    font-size: 12px;
+    color: #797878;
+}
