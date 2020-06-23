@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/yudbox/osLesson1/main.aa3664a4.chunk.css",
-    "main.js": "/yudbox/osLesson1/main.56f4cf3c.chunk.js",
-    "main.js.map": "/yudbox/osLesson1/main.56f4cf3c.chunk.js.map",
-    "runtime-main.js": "/yudbox/osLesson1/runtime-main.f79c74a1.js",
-    "runtime-main.js.map": "/yudbox/osLesson1/runtime-main.f79c74a1.js.map",
-    "2.b6f20b62.chunk.js": "/yudbox/osLesson1/2.b6f20b62.chunk.js",
-    "2.b6f20b62.chunk.js.map": "/yudbox/osLesson1/2.b6f20b62.chunk.js.map",
-    "2.b6f20b62.chunk.js.LICENSE.txt": "/yudbox/osLesson1/2.b6f20b62.chunk.js.LICENSE.txt",
-    "index.html": "/yudbox/osLesson1/index.html",
-    "main.aa3664a4.chunk.css.map": "/yudbox/osLesson1/main.aa3664a4.chunk.css.map",
-    "precache-manifest.c9fa58830bc9cc8918b8176e2fc7b935.js": "/yudbox/osLesson1/precache-manifest.c9fa58830bc9cc8918b8176e2fc7b935.js",
-    "service-worker.js": "/yudbox/osLesson1/service-worker.js"
+    "main.css": "/main.aa3664a4.chunk.css",
+    "main.js": "/main.60aab425.chunk.js",
+    "main.js.map": "/main.60aab425.chunk.js.map",
+    "runtime-main.js": "/runtime-main.5fedbd75.js",
+    "runtime-main.js.map": "/runtime-main.5fedbd75.js.map",
+    "2.b6f20b62.chunk.js": "/2.b6f20b62.chunk.js",
+    "2.b6f20b62.chunk.js.map": "/2.b6f20b62.chunk.js.map",
+    "2.b6f20b62.chunk.js.LICENSE.txt": "/2.b6f20b62.chunk.js.LICENSE.txt",
+    "index.html": "/index.html",
+    "main.aa3664a4.chunk.css.map": "/main.aa3664a4.chunk.css.map",
+    "precache-manifest.905046834fd49cc2f5860273b917c331.js": "/precache-manifest.905046834fd49cc2f5860273b917c331.js",
+    "service-worker.js": "/service-worker.js"
   },
   "entrypoints": [
-    "runtime-main.f79c74a1.js",
+    "runtime-main.5fedbd75.js",
     "2.b6f20b62.chunk.js",
     "main.aa3664a4.chunk.css",
-    "main.56f4cf3c.chunk.js"
+    "main.60aab425.chunk.js"
   ]
 }
