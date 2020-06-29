@@ -1,9 +1,12 @@
 .catologContainer {
     display: flex;
     justify-content: flex-start;
-    width: 32%;
-}
+    flex-wrap: wrap;
 
+}
+.goods {
+    margin-left: 10px;
+}
 .goodsPhoto {
     height: 250px;
 
@@ -23,3 +26,4 @@
     font-size: 12px;
     color: #797878;
 }
+

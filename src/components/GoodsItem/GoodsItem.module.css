@@ -34,5 +34,17 @@
     height: 30px;
     color: #fff; 
     background-color: rgb(23, 146, 228);
+}
 
+@media (max-width: 575px) {
+    .goods_container {
+        flex-direction: column;
+    }
+    .goods_item {
+        width: 95%;
+    }
+    .goods_buy button {
+        width: 150px;
+
+    }
 }

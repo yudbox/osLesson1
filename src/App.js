@@ -3,6 +3,7 @@ import './App.css';
 import { Route, BrowserRouter, HashRouter } from 'react-router-dom';
 import Sidebar from './components/Sidebar/Sidebar'
 import Chessboard from './components/Chessboard/Chessboard'
+import BurgerMenu from './components/BurgerMenu/BurgerMenu'
 import CatalogContainer from './components/Catalog/CatalogContainer'
 import GoodsItemContainer from './components/GoodsItem/GoodsItemContainer'
 import PrivatRoomContainer from './components/PrivatRoom/PrivatRoomContainer'
@@ -13,6 +14,7 @@ import { compose } from 'redux'
 const App = () => {
   return (
     <div className="body-container">
+      <BurgerMenu />
       <Sidebar />
       <div className="main-content">
         <Route path="/chessboard" render={() => <Chessboard />} />
@@ -28,7 +30,7 @@ const App = () => {
 
 
 const AppContainer = (props) => {
-  return <HashRouter basename={process.env.PUBLIC_URL}>
+  return <HashRouter>
     <Provider store={props.store}>
       <App />
     </Provider>
